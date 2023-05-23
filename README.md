@@ -1,0 +1,2 @@
+# github-interns
+Teaching GitHub
