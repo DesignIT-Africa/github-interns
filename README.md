@@ -1,2 +1,6 @@
 # github-interns
-Teaching GitHub
+Teaching github
+
+git add
+git commit
+git push
